@@ -1,9 +1,9 @@
-package com.rigoloapp.alenandria.gwt;
+package alenandria.gwt;
 
 import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.backends.gwt.GwtApplication;
 import com.badlogic.gdx.backends.gwt.GwtApplicationConfiguration;
-import com.rigoloapp.alenandria.Alejandria;
+import com.rigoloapp.alejandria.Alejandria;
 
 /** Launches the GWT application. */
 public class GwtLauncher extends GwtApplication {

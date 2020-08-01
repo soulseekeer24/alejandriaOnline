@@ -4,8 +4,8 @@
 	<source path="" />
 	<inherits name="com.badlogic.gdx.backends.gdx_backends_gwt" />
 	<inherits name="com.badlogic.ashley_gwt" />
-	<inherits name="com.rigoloapp.alenandria.Alejandria" />
-	<entry-point class="com.rigoloapp.alenandria.gwt.GwtLauncher" />
+	<inherits name="com.rigoloapp.alejandria.Alejandria" />
+	<entry-point class="alenandria.gwt.GwtLauncher" />
 	<set-configuration-property name="gdx.assetpath" value="../assets" />
 	<set-configuration-property name="xsiframe.failIfScriptTag" value="FALSE"/>
 	<!-- These two lines reduce the work GWT has to do during compilation and also shrink output size. -->
